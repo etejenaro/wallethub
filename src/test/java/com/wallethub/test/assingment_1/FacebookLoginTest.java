@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class FacebookLoginTest extends TestBase {
 
-
+// it will be removed
     @Test
     public void facebookLogin()  {
 
